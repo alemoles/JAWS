@@ -1,0 +1,13 @@
+{
+    "name": "devteam/jaws",
+    "description": "PHP project for educative platform",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {
+        "gufy/pdftohtml-php": "~2"
+    },
+    "autoload":{
+        "psr-4":{"Clases\\":"./clases"}
+    }
+}

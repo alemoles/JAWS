@@ -4,8 +4,12 @@ error_reporting(E_ALL ^ E_WARNING);
 
 $sufijo = "";
 
-if (strpos($_SERVER["REQUEST_URI"], "ajax/") != false) {
+if (strpos($_SERVER["REQUEST_URI"], "ajax/") != false ) {
     $sufijo = "../";
+}
+
+if( strpos($_SERVER["REQUEST_URI"], "pdfViewer/") != false){
+    $sufijo = "../../";
 }
 
 require_once $sufijo.'clases/Usuario.php';

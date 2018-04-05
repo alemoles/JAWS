@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d2140bf-51fd-425d-b20a-190a0d5882af" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PDFProcesor.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ajax/pdfViewerAnnotation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/JAWS.iml" afterPath="$PROJECT_DIR$/.idea/JAWS.iml" />
+      <change beforePath="$PROJECT_DIR$/clases/BD.php" afterPath="$PROJECT_DIR$/clases/BD.php" />
+      <change beforePath="$PROJECT_DIR$/funciones/log.php" afterPath="$PROJECT_DIR$/funciones/log.php" />
+      <change beforePath="$PROJECT_DIR$/trozos/session.php" afterPath="$PROJECT_DIR$/trozos/session.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="inspiracletraining@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="inspiracletraining@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="inspiracletraining@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="inspiracletraining: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="inspiracletraining@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="inspiracletraining: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="inspiracletraining@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="inspiracletraining: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="comments: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="inspiracletraining@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="inspiracletraining: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="usuarios: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BD.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clases/BD.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trozos/session.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdfViewerAnnotation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/pdfViewerAnnotation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <marker date="1521950778087" expanded="true" signature="1192:1223" ph="SELECT * FRO... users" />
+                <marker date="1521950778087" expanded="true" signature="1826:1884" ph="INSERT INTO comments... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdfviewer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdfviewer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/45beca6d-6126-4aa0-a034-1a42108cc479/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/PDFProcessor" />
+        <option value="$PROJECT_DIR$/PDFProcesor.php" />
+        <option value="$PROJECT_DIR$/js/pdfViewer/pdfviewer.js" />
+        <option value="$PROJECT_DIR$/css/pdfViewer/pdfviewer.css" />
+        <option value="$PROJECT_DIR$/pdfViewer/index.js" />
+        <option value="$PROJECT_DIR$/pdfViewer/shared/pdfViewer/pdfviewer.css" />
+        <option value="$PROJECT_DIR$/clases/BD.php" />
+        <option value="$PROJECT_DIR$/clases/Usuario.php" />
+        <option value="$PROJECT_DIR$/pdfViewer/shared/pdfViewer/pdfviewer.js" />
+        <option value="$PROJECT_DIR$/pdfViewer/index.php" />
+        <option value="$PROJECT_DIR$/trozos/session.php" />
+        <option value="$PROJECT_DIR$/funciones/log.php" />
+        <option value="$PROJECT_DIR$/clases/pdfViewer/index.php" />
+        <option value="$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js" />
+        <option value="$PROJECT_DIR$/ajax/pdfViewerAnnotation.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="9770c856-2235-4dcc-b701-f4ac05cb0b6c" name="localhost" port="9090" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/paquettg/string-encode" />
+      <path value="$PROJECT_DIR$/vendor/paquettg/php-html-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/gufy/pdftohtml-php" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/config" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="35" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAWS" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JAWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAWS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="clases" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JAWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAWS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="funciones" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="JAWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAWS" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="trozos" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TrainingInspiracle" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMAS\Development\Web\xampp\htdocs\JAWS\clases" />
+      <recent name="D:\PROGRAMAS\Development\Web\xampp\htdocs\JAWS\pdfViewer\pdfs" />
+      <recent name="D:\PROGRAMAS\Development\Web\xampp\htdocs\JAWS\pdfViewer\shared\pdfViewer" />
+      <recent name="D:\PROGRAMAS\Development\Web\xampp\htdocs\JAWS\pdfViewer\shared" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMAS\Development\Web\xampp\htdocs\JAWS\pdfViewer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="pdfViewerAnnotation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ajax/pdfViewerAnnotation.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.pdfViewerAnnotation.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2140bf-51fd-425d-b20a-190a0d5882af" name="Default" comment="" />
+      <created>1519619858286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519619858286</updated>
+      <workItem from="1519619859833" duration="675000" />
+      <workItem from="1519786324301" duration="311000" />
+      <workItem from="1520908241987" duration="4664000" />
+      <workItem from="1521257554142" duration="7588000" />
+      <workItem from="1521597407276" duration="3885000" />
+      <workItem from="1521641328521" duration="3673000" />
+      <workItem from="1521770912645" duration="6410000" />
+      <workItem from="1521854802651" duration="10442000" />
+      <workItem from="1521940460644" duration="6912000" />
+      <workItem from="1522119601907" duration="1627000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create new branch">
+      <created>1519620062860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519620062860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46187000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15582451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20257966" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19213313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new branch" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/ajax/pdfViewerAnnotation.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/clases/Usuario.php</url>
+          <line>362</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/trozos/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/pdfViewerAnnotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <marker date="1521950778087" expanded="true" signature="1192:1223" ph="SELECT * FRO... users" />
+            <marker date="1521950778087" expanded="true" signature="1826:1884" ph="INSERT INTO comments... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/BD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="15" lean-forward="false" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/pdfViewerAnnotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <marker date="1521950778087" expanded="true" signature="1192:1223" ph="SELECT * FRO... users" />
+            <marker date="1521950778087" expanded="true" signature="1826:1884" ph="INSERT INTO comments... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/BD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="151" column="13" lean-forward="false" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5848">
+          <caret line="344" column="11" lean-forward="false" selection-start-line="311" selection-start-column="4" selection-end-line="344" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/BD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDFProcesor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/gufy/pdftohtml-php/src/Pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/BD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDFProcessor" />
+    <entry file="file://$PROJECT_DIR$/vendor/gufy/pdftohtml-php/output/5aa74ee7d352a/file-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/gufy/pdftohtml-php/output/5aa74ee7d352a/file-8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/gufy/pdftohtml-php/src/Pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDFProcesor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdf_viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trozos/pie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examenesrealizados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trozos/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8f841cb2-fec3-4294-b1b8-5480817ced8d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/45beca6d-6126-4aa0-a034-1a42108cc479">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>45beca6d-6126-4aa0-a034-1a42108cc479</OriginalElement>
+          <nodes>
+            <node x="727.5" y="1360.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_examenes</node>
+            <node x="1749.2303523035232" y="1028.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos_usuarios</node>
+            <node x="1354.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_examen_respuestas</node>
+            <node x="0.0" y="2243.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_min_fecha_cal</node>
+            <node x="287.5" y="1360.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos_usuarios</node>
+            <node x="2404.57418699187" y="1028.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas_usuarios</node>
+            <node x="556.5" y="1632.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario_usuarios</node>
+            <node x="930.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_preguntas_por_entidad</node>
+            <node x="1285.3644986449867" y="1305.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.respuestas</node>
+            <node x="2134.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_total</node>
+            <node x="993.125" y="0.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.provincias</node>
+            <node x="993.125" y="314.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios</node>
+            <node x="2329.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_totales</node>
+            <node x="1608.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_fallos</node>
+            <node x="53.5" y="1294.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario</node>
+            <node x="488.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_resultado_global_examen</node>
+            <node x="504.5" y="1360.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_grupos</node>
+            <node x="1197.7186653116532" y="1006.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.periodos</node>
+            <node x="343.75" y="1028.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos</node>
+            <node x="2029.57418699187" y="1006.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.unidades</node>
+            <node x="2170.82418699187" y="1632.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_anyos</node>
+            <node x="1142.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_preguntasreales</node>
+            <node x="2114.07418699187" y="1349.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos</node>
+            <node x="1816.2616869918702" y="1360.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas_virtual</node>
+            <node x="990.6358401084013" y="1632.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados_respuestas_dudas</node>
+            <node x="253.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_preguntas_temas_examenes</node>
+            <node x="949.5" y="1316.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados</node>
+            <node x="1488.2303523035232" y="896.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas</node>
+            <node x="917.1358401084013" y="973.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes</node>
+            <node x="709.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_resultados_completo</node>
+            <node x="1728.5" y="1610.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_preguntas</node>
+            <node x="1796.3125" y="124.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos</node>
+            <node x="1269.5" y="1632.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos_preguntas</node>
+            <node x="1050.375" y="146.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.localidades</node>
+            <node x="0.0" y="1632.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario_dias</node>
+            <node x="1497.5" y="1632.5">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados_respuestas</node>
+            <node x="2257.8644986449863" y="479.0">45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas</node>
+            <node x="1881.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_correctas</node>
+            <node x="0.0" y="1773.0">45beca6d-6126-4aa0-a034-1a42108cc479.VIEW:inspiracletraining.v_preguntas_con_temas</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas_virtual" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas">
+              <point x="-52.00000000000023" y="-36.5" />
+              <point x="1868.26168699187" y="1274.0" />
+              <point x="1699.1053523035232" y="1274.0" />
+              <point x="90.375" y="169.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos">
+              <point x="49.25" y="-36.5" />
+              <point x="435.25" y="1274.0" />
+              <point x="438.75" y="1274.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="-49.25" y="-36.5" />
+              <point x="336.75" y="1264.0" />
+              <point x="333.25" y="1264.0" />
+              <point x="333.25" y="846.0" />
+              <point x="1004.6805555555555" y="846.0" />
+              <point x="-92.44444444444446" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="0.0" y="-92.0" />
+              <point x="1018.1358401084013" y="876.0" />
+              <point x="1074.013888888889" y="876.0" />
+              <point x="-23.111111111111086" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.unidades">
+              <point x="0.0" y="-48.0" />
+              <point x="2211.07418699187" y="1274.0" />
+              <point x="2175.07418699187" y="1274.0" />
+              <point x="48.5" y="59.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario_dias" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario">
+              <point x="0.0" y="-36.5" />
+              <point x="-53.5" y="103.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos">
+              <point x="0.0" y="-81.0" />
+              <point x="2351.3644986449863" y="294.0" />
+              <point x="1952.1458333333333" y="294.0" />
+              <point x="62.33333333333334" y="70.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos_preguntas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas">
+              <point x="-51.99999999999977" y="-36.5" />
+              <point x="1321.5" y="1570.0" />
+              <point x="1621.7816734417347" y="1570.0" />
+              <point x="1621.7816734417347" y="1274.0" />
+              <point x="1578.6053523035232" y="1274.0" />
+              <point x="-30.125" y="169.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes">
+              <point x="-52.25" y="-81.0" />
+              <point x="1001.75" y="1274.0" />
+              <point x="1043.3858401084012" y="1274.0" />
+              <point x="25.25" y="92.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="-49.25" y="-36.5" />
+              <point x="2453.82418699187" y="836.0" />
+              <point x="1189.5694444444443" y="836.0" />
+              <point x="92.44444444444446" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_preguntas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes">
+              <point x="-69.33333333333326" y="-59.0" />
+              <point x="1763.1666666666665" y="1530.0" />
+              <point x="1506.8644986449867" y="1530.0" />
+              <point x="1506.8644986449867" y="1264.0" />
+              <point x="1093.8858401084012" y="1264.0" />
+              <point x="75.75" y="92.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_examenes" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes">
+              <point x="50.5" y="-36.5" />
+              <point x="879.0" y="1274.0" />
+              <point x="992.8858401084013" y="1274.0" />
+              <point x="-25.25" y="92.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.localidades">
+              <point x="52.0" y="-246.0" />
+              <point x="1149.125" y="284.0" />
+              <point x="1154.375" y="284.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_anyos" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="49.25" y="-36.5" />
+              <point x="2318.57418699187" y="846.0" />
+              <point x="1166.4583333333335" y="846.0" />
+              <point x="69.33333333333337" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_preguntas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas">
+              <point x="0.0" y="-59.0" />
+              <point x="1832.5" y="1520.0" />
+              <point x="1676.44918699187" y="1520.0" />
+              <point x="1676.44918699187" y="1274.0" />
+              <point x="1638.8553523035232" y="1274.0" />
+              <point x="30.125" y="169.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="53.5" y="-36.5" />
+              <point x="717.0" y="856.0" />
+              <point x="1027.7916666666665" y="856.0" />
+              <point x="-69.33333333333337" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_grupos" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes">
+              <point x="50.5" y="-36.5" />
+              <point x="656.0" y="1264.0" />
+              <point x="942.3858401084013" y="1264.0" />
+              <point x="-75.75" y="92.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_grupos" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos">
+              <point x="-50.5" y="-36.5" />
+              <point x="555.0" y="1274.0" />
+              <point x="502.08333333333337" y="1274.0" />
+              <point x="63.33333333333337" y="37.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_anyos" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos">
+              <point x="-49.25" y="-36.5" />
+              <point x="2220.07418699187" y="1590.0" />
+              <point x="2275.7408536585363" y="1590.0" />
+              <point x="64.66666666666652" y="48.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos_preguntas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos">
+              <point x="52.00000000000023" y="-36.5" />
+              <point x="1425.5" y="1580.0" />
+              <point x="2146.407520325203" y="1580.0" />
+              <point x="-64.66666666666652" y="48.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados_respuestas_dudas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados">
+              <point x="-52.75" y="-36.5" />
+              <point x="1043.3858401084012" y="1590.0" />
+              <point x="1001.75" y="1590.0" />
+              <point x="-52.25" y="81.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario">
+              <point x="-53.5" y="-36.5" />
+              <point x="610.0" y="1590.0" />
+              <point x="214.0" y="1590.0" />
+              <point x="53.5" y="103.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas_virtual" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.unidades">
+              <point x="51.99999999999977" y="-36.5" />
+              <point x="1972.26168699187" y="1274.0" />
+              <point x="2078.07418699187" y="1274.0" />
+              <point x="-48.5" y="59.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados_respuestas_dudas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.respuestas">
+              <point x="52.75" y="-36.5" />
+              <point x="1148.8858401084012" y="1560.0" />
+              <point x="1338.1144986449867" y="1560.0" />
+              <point x="-52.75" y="92.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados_respuestas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados">
+              <point x="-52.75" y="-36.5" />
+              <point x="1550.25" y="1550.0" />
+              <point x="1106.25" y="1550.0" />
+              <point x="52.25" y="81.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.provincias">
+              <point x="-52.0" y="-246.0" />
+              <point x="1045.125" y="284.0" />
+              <point x="1039.875" y="284.0" />
+              <point x="1039.875" y="99.0" />
+              <point x="1045.125" y="99.0" />
+              <point x="-52.0" y="37.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados_respuestas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.respuestas">
+              <point x="52.75" y="-36.5" />
+              <point x="1655.75" y="1540.0" />
+              <point x="1443.6144986449867" y="1540.0" />
+              <point x="52.75" y="92.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos">
+              <point x="49.25" y="-36.5" />
+              <point x="1896.9803523035232" y="876.0" />
+              <point x="1906.7816734417347" y="876.0" />
+              <point x="1906.7816734417347" y="294.0" />
+              <point x="1889.8125" y="294.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.resultados" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="52.25" y="-81.0" />
+              <point x="1106.25" y="1274.0" />
+              <point x="1171.6769986449867" y="1274.0" />
+              <point x="1171.6769986449867" y="876.0" />
+              <point x="1097.125" y="876.0" />
+              <point x="0.0" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas">
+              <point x="49.25" y="-36.5" />
+              <point x="2552.32418699187" y="826.0" />
+              <point x="2398.1144986449863" y="826.0" />
+              <point x="46.75" y="81.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos_usuarios" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="-49.25" y="-36.5" />
+              <point x="1798.4803523035232" y="856.0" />
+              <point x="1143.3472222222222" y="856.0" />
+              <point x="46.22222222222217" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.grupos">
+              <point x="53.5" y="-103.0" />
+              <point x="214.0" y="1274.0" />
+              <point x="375.41666666666663" y="1274.0" />
+              <point x="-63.33333333333337" y="37.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.localidades" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.provincias">
+              <point x="0.0" y="-48.0" />
+              <point x="1154.375" y="99.0" />
+              <point x="1149.125" y="99.0" />
+              <point x="52.0" y="37.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_examenes" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="-50.5" y="-36.5" />
+              <point x="778.0" y="1254.0" />
+              <point x="785.375" y="1254.0" />
+              <point x="785.375" y="866.0" />
+              <point x="1050.9027777777778" y="866.0" />
+              <point x="-46.22222222222217" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.respuestas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.preguntas">
+              <point x="0.0" y="-92.0" />
+              <point x="1390.8644986449867" y="1274.0" />
+              <point x="1518.3553523035232" y="1274.0" />
+              <point x="-90.375" y="169.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.examenes_preguntas" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.anyos">
+              <point x="69.33333333333326" y="-59.0" />
+              <point x="1901.833333333333" y="1590.0" />
+              <point x="2211.07418699187" y="1590.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.calendario" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.cursos">
+              <point x="-53.5" y="-103.0" />
+              <point x="107.0" y="294.0" />
+              <point x="1827.4791666666665" y="294.0" />
+              <point x="-62.33333333333337" y="70.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.periodos" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios">
+              <point x="0.0" y="-59.0" />
+              <point x="1297.7186653116532" y="866.0" />
+              <point x="1120.236111111111" y="866.0" />
+              <point x="23.111111111111086" y="246.0" />
+            </edge>
+            <edge source="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.unidades" target="45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.temas">
+              <point x="0.0" y="-59.0" />
+              <point x="2126.57418699187" y="876.0" />
+              <point x="2304.6144986449863" y="876.0" />
+              <point x="-46.75" y="81.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.1867704280155642" x="1275.0" y="1138.0" />
+          <SelectedNodes>
+            <node>45beca6d-6126-4aa0-a034-1a42108cc479.TABLE:inspiracletraining.usuarios_examenes</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/45beca6d-6126-4aa0-a034-1a42108cc479/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aviso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/buscaPreguntas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1521858056127" expanded="true" signature="5359:5800" ph="select u.ip,... usuarios" />
+            <marker date="1521858056127" expanded="true" signature="7538:7580" ph="select email... usuarios" />
+            <marker date="1521858056127" expanded="true" signature="7880:8247" ph="insert into usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="8285:8592" ph="insert into usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="9301:9418" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="9829:9879" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="10123:10176" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="12398:12452" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="12671:12725" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="12939:12987" ph="delete from cursos_usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="13070:13117" ph="delete from usuarios_anyos... " />
+            <marker date="1521858056127" expanded="true" signature="13200:13247" ph="delete from temas_usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="13330:13444" ph="delete from resultados_respuestas... " />
+            <marker date="1521858056127" expanded="true" signature="13387:13443" ph="select id_re... resultados" />
+            <marker date="1521858056127" expanded="true" signature="13527:13570" ph="delete from resultados... " />
+            <marker date="1521858056127" expanded="true" signature="13653:13703" ph="delete from usuarios_examenes... " />
+            <marker date="1521858056127" expanded="true" signature="13786:13884" ph="delete from examenes_preguntas... " />
+            <marker date="1521858056127" expanded="true" signature="13837:13883" ph="select id_ex... examenes" />
+            <marker date="1521858056127" expanded="true" signature="13967:14003" ph="delete from examenes... " />
+            <marker date="1521858056127" expanded="true" signature="14086:14127" ph="delete from periodos... " />
+            <marker date="1521858056127" expanded="true" signature="14210:14251" ph="delete from usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="14479:14529" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="14764:14831" ph="select id_us... usuarios" />
+            <marker date="1521858056127" expanded="true" signature="15342:15397" ph="update usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="15641:15704" ph="delete from temas_usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="15753:15815" ph="insert into temas_usuarios... " />
+            <marker date="1521858056127" expanded="true" signature="16119:16182" ph="delete from usuarios_anyos... " />
+            <marker date="1521858056127" expanded="true" signature="16231:16293" ph="insert into usuarios_anyos... " />
+            <marker date="1521858056127" expanded="true" signature="17211:17253" ph="select clave... usuarios" />
+            <marker date="1521858056127" expanded="true" signature="17525:17592" ph="update usuarios... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funciones/controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funciones/log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/db_structure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/lint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/d0a019bb/45beca6d-6126-4aa0-a034-1a42108cc479/inspiracletraining.comments">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/pdfViewerAnnotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <marker date="1521950778087" expanded="true" signature="1192:1223" ph="SELECT * FRO... users" />
+            <marker date="1521950778087" expanded="true" signature="1826:1884" ph="INSERT INTO comments... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/pdfViewer/shared/pdfViewer/pdfviewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trozos/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/BD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

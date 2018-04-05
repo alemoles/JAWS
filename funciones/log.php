@@ -12,6 +12,11 @@ if (strpos($_SERVER["REQUEST_URI"], "ajax/") != false) {
     $sufijo = "../";
 }
 
+if (strpos($_SERVER["REQUEST_URI"], "pdfViewer/") != false) {
+    $sufijo = "../../";
+}
+
+
 require_once $sufijo . 'clases/Correo.php';
 
 function escribeLog($texto, $critico = false) {
